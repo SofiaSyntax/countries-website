@@ -1,0 +1,50 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.heading {
+  background-color: cadetblue;
+  height: 200px;
+  text-align: center;
+  font-size: 60px;
+  padding-top: 75px;
+  color: antiquewhite;
+}
+
+.sidenav {
+  height: 600px;
+  width: 20%;
+  float: left;
+  background-color: antiquewhite;
+  border: 5px solid cadetblue;
+  text-align: center;
+  padding-top: 10px;
+}
+.maincontent {
+  background-color: antiquewhite;
+  width: calc(100%-20%);
+  height: 600px;
+  text-align: center;
+  color: cadetblue;
+  border: 5px solid cadetblue;
+  padding-top: 10px;
+}
+
+.h1 {
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: cadetblue;
+}
+
+.footer {
+  background-color: cadetblue;
+  height: 40px;
+  clear: both;
+  padding: 35px;
+  text-align: center;
+  color: antiquewhite;
+}
